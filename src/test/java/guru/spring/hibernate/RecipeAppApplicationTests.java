@@ -1,4 +1,4 @@
-package guru.spring;
+package guru.spring.hibernate;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
